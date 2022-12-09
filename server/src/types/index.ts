@@ -1,0 +1,1 @@
+export {GetProductQuery} from "./GetProductQuery"
